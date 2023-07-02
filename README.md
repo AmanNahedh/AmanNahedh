@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🖐 Hi there I am Aman Nahedh<br>👨‍💻 senior student at Arab Open University<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Java OOP, Python, SQL, and dart<br>
 
 
